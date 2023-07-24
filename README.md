@@ -6,3 +6,8 @@ Here are my solutions to the assignments as well as my notes for 532 Matrix Meth
 Mathematical topics covered: linear equations, regression, regularization, singular value decomposition, and iterative algorithms.
 
 Machine learning topics covered: the lasso, support vector machines, kernel methods, clustering, dictionary learning, neural networks, and deep learning  
+
+
+Description of the assignments:
+
+1. ADD descriptions
